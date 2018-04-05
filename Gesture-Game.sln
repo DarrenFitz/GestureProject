@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gesture-Game.Plugins", "Gesture-Game.Plugins.csproj", "{95CD5D53-227F-0DBC-5CDF-2B193234264B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gesture-Game", "Gesture-Game.csproj", "{2B31F02F-FEF5-DDED-DC8A-C20E654F97A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gesture-Game.Editor.Plugins", "Gesture-Game.Editor.Plugins.csproj", "{6FE3F1AD-0327-3F61-173B-DF459C986106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95CD5D53-227F-0DBC-5CDF-2B193234264B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CD5D53-227F-0DBC-5CDF-2B193234264B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CD5D53-227F-0DBC-5CDF-2B193234264B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CD5D53-227F-0DBC-5CDF-2B193234264B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B31F02F-FEF5-DDED-DC8A-C20E654F97A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B31F02F-FEF5-DDED-DC8A-C20E654F97A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B31F02F-FEF5-DDED-DC8A-C20E654F97A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B31F02F-FEF5-DDED-DC8A-C20E654F97A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE3F1AD-0327-3F61-173B-DF459C986106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE3F1AD-0327-3F61-173B-DF459C986106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE3F1AD-0327-3F61-173B-DF459C986106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE3F1AD-0327-3F61-173B-DF459C986106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
