@@ -28,6 +28,7 @@ public class gamefunction : MonoBehaviour {
     public static gamefunction Instance; 
     void Start () {
         Instance = this;
+        LoseText.SetActive(false);
     }
 	
 	// Update is called once per frame

@@ -36,18 +36,3 @@ public class shipcontrol : MonoBehaviour {
         transform.position = playerPos;
     }
 }
-/*if (Input.GetKey(KeyCode.RightArrow))
-        {
-            gameObject.transform.position += new Vector3(0.1f, 0, 0);
-        }
-        if (Input.GetKey(KeyCode.LeftArrow))
-        {
-            gameObject.transform.position += new Vector3(-0.1f, 0, 0);
-        }
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            Vector3 pos = gameObject.transform.position + new Vector3(0, 0.6f, 0);
-
-            Instantiate(Bullet, pos, gameObject.transform.rotation);
-
-        }*/
