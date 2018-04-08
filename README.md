@@ -25,6 +25,10 @@ This project was built using [Unity](https://store.unity.com/) 2017.4.0f1 cross 
 
 ### Conclusions & Recommendations
 This was my first project built using Unity and it took a while to become familiar with its features. The project a was quite challenging as I was unfamiliar developing using gesture inputs as opposed to keyboard inputs. If I was to further develop this project I would like utilize more body functions, and hand gestures.
+
+<img src="https://github.com/DarrenFitz/GestureProject/blob/master/G1.PNG" width="700"/>
+<img src="https://github.com/DarrenFitz/GestureProject/blob/master/G2.PNG" width="700"/>
+
 ## References
 * [Kinect for Windows SDK 2.0](https://developer.microsoft.com/en-us/windows/kinect)
 * [Unity](https://store.unity.com/)
