@@ -64,7 +64,7 @@ public class gamefunction : MonoBehaviour {
 
     public void AddScore()
     {
-        Score += 3;
+        Score += 2;
         ScoreText.text = "Score: " + Score;
     }
     public void MinusScore()

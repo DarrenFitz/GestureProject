@@ -27,13 +27,13 @@ public class level : MonoBehaviour {
     void Update()
     {
         Score = gamefunction.Instance.Score;
-        if (Score > 15 && SceneManager.GetActiveScene() == SceneManager.GetSceneByName("easy"))
+        if (Score > 20 && SceneManager.GetActiveScene() == SceneManager.GetSceneByName("easy"))
         {
             SceneManager.LoadScene("normal", LoadSceneMode.Single);
             //KinectManager.instance.IsPlaying = false;
         }
 
-        if (Score > 20 && SceneManager.GetActiveScene() == SceneManager.GetSceneByName("normal"))
+        if (Score > 25 && SceneManager.GetActiveScene() == SceneManager.GetSceneByName("normal"))
         {
             SceneManager.LoadScene("hard", LoadSceneMode.Single);
             //KinectManager.instance.IsPlaying = false;
